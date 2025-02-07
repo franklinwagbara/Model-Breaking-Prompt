@@ -1,0 +1,4 @@
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Model-Breaking-Prompt\Model-Breaking-Prompt\obj\Debug\net8.0\Model-Breaking-Prompt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Model-Breaking-Prompt\Model-Breaking-Prompt\obj\Debug\net8.0\Model-Breaking-Prompt.AssemblyInfoInputs.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Model-Breaking-Prompt\Model-Breaking-Prompt\obj\Debug\net8.0\Model-Breaking-Prompt.AssemblyInfo.cs
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Model-Breaking-Prompt\Model-Breaking-Prompt\obj\Debug\net8.0\Model-Breaking-Prompt.csproj.CoreCompileInputs.cache
