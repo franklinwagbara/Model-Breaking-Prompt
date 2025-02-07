@@ -1,0 +1,7 @@
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Model-Breaking-Prompt\FibonacciTest\bin\Debug\net8.0\CoverletSourceRootsMapping_FibonacciTest
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Model-Breaking-Prompt\FibonacciTest\obj\Debug\net8.0\FibonacciTest.csproj.AssemblyReference.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Model-Breaking-Prompt\FibonacciTest\obj\Debug\net8.0\FibonacciTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Model-Breaking-Prompt\FibonacciTest\obj\Debug\net8.0\FibonacciTest.AssemblyInfoInputs.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Model-Breaking-Prompt\FibonacciTest\obj\Debug\net8.0\FibonacciTest.AssemblyInfo.cs
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Model-Breaking-Prompt\FibonacciTest\obj\Debug\net8.0\FibonacciTest.csproj.CoreCompileInputs.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Model-Breaking-Prompt\FibonacciTest\obj\Debug\net8.0\FibonacciTest.sourcelink.json
